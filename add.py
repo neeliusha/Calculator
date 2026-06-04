@@ -15,3 +15,6 @@ res = float(a) + float(b)
 
 print('The sum of {0} and {1} is {2}'.format(num1, num2, sum)
     #added one more line for praticing jenkins 
+
+
+      #adding few line to check jenkins automation
